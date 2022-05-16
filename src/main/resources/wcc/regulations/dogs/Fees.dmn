@@ -121,7 +121,7 @@ then
     date(ApplicableYear+1, 6, 30)
   else
   if
-    FeeType = "Adopted"
+    false and FeeType = "Adopted"
   then
     if
       date((date(DogDOB) + duration("P0Y4M0D")).year, (date(DogDOB) + duration("P0Y4M0D")).month, 1) &gt; date(date(AdoptionDate).year, date(AdoptionDate).month, 1)
