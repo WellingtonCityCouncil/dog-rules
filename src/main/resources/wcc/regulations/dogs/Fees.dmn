@@ -136,7 +136,7 @@ then
       date(date(ImportedDate).year, date(ImportedDate).month, 1)
     else
       if
-        FeeType = "Possessed" or PossessedThisYear
+        PossessedThisYear or FeeType = "Possessed"
       then
         date(date(PossessionDate).year, date(PossessionDate).month, 1)
       else
