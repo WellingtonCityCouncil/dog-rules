@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <ScenarioSimulationModel version="1.8">
   <simulation>
     <scesimModelDescriptor>
@@ -15,8 +14,8 @@
           </factIdentifier>
           <className>java.lang.Integer</className>
           <factAlias>#</factAlias>
-          <columnWidth>70</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>70.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements/>
@@ -30,8 +29,8 @@
           </factIdentifier>
           <className>java.lang.String</className>
           <factAlias>Scenario description</factAlias>
-          <columnWidth>389</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>389.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -51,8 +50,8 @@
           <factAlias>AdoptionDate</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -72,8 +71,8 @@
           <factAlias>ApplicableYear</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -93,8 +92,8 @@
           <factAlias>CurrentRegoOtherCouncil</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -114,8 +113,8 @@
           <factAlias>Dangerous</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -135,8 +134,8 @@
           <factAlias>Desexed</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -156,8 +155,8 @@
           <factAlias>DisabilityAssist</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -177,8 +176,8 @@
           <factAlias>DogDOB</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -198,8 +197,8 @@
           <factAlias>ImportedDate</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -219,8 +218,8 @@
           <factAlias>OwnerRDO</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -240,8 +239,8 @@
           <factAlias>PossessionDate</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -261,8 +260,8 @@
           <factAlias>RegistrationDate</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -282,8 +281,8 @@
           <factAlias>TransferIn</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -303,8 +302,8 @@
           <factAlias>Working</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -323,8 +322,8 @@
           <className>FeeType</className>
           <factAlias>FeeType</factAlias>
           <expressionAlias>value</expressionAlias>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -344,8 +343,8 @@
           <factAlias>ActualRegistrationDate</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>156</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>156.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -365,8 +364,8 @@
           <factAlias>AdoptedFee</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -386,8 +385,8 @@
           <factAlias>AdoptedThisYear</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -407,8 +406,8 @@
           <factAlias>ImportedFee</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -428,8 +427,8 @@
           <factAlias>ImportedThisYear</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -449,8 +448,8 @@
           <factAlias>InitialRegistration</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -470,8 +469,8 @@
           <factAlias>LateRegistration</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -491,8 +490,8 @@
           <factAlias>LicenseFee</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -512,8 +511,8 @@
           <factAlias>PossessedFee</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -533,8 +532,8 @@
           <factAlias>PossessedThisYear</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -553,8 +552,8 @@
           <className>number</className>
           <factAlias>InitialFee</factAlias>
           <expressionAlias>value</expressionAlias>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -574,8 +573,8 @@
           <factAlias>StandardFee</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -595,8 +594,8 @@
           <factAlias>WorkingFee</factAlias>
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
@@ -700,7 +699,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-15"</rawValue>
+            <rawValue class="string">&quot;2020-12-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -744,7 +743,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-26"</rawValue>
+            <rawValue class="string">&quot;2021-09-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -777,7 +776,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -788,7 +787,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1023,7 +1022,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-15"</rawValue>
+            <rawValue class="string">&quot;2020-12-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1067,7 +1066,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-26"</rawValue>
+            <rawValue class="string">&quot;2021-09-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1100,7 +1099,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1111,7 +1110,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-04-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-04-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1346,7 +1345,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-15"</rawValue>
+            <rawValue class="string">&quot;2020-12-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1390,7 +1389,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-26"</rawValue>
+            <rawValue class="string">&quot;2021-04-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1423,7 +1422,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1434,7 +1433,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-04-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-04-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1669,7 +1668,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-15"</rawValue>
+            <rawValue class="string">&quot;2020-12-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1713,7 +1712,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-03-26"</rawValue>
+            <rawValue class="string">&quot;2021-03-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1746,7 +1745,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1757,7 +1756,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-04-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-04-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -1992,7 +1991,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-15"</rawValue>
+            <rawValue class="string">&quot;2021-02-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2036,7 +2035,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-26"</rawValue>
+            <rawValue class="string">&quot;2021-06-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2069,7 +2068,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2080,7 +2079,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2315,7 +2314,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-15"</rawValue>
+            <rawValue class="string">&quot;2021-02-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2359,7 +2358,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-26"</rawValue>
+            <rawValue class="string">&quot;2021-06-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2392,7 +2391,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2403,7 +2402,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2638,7 +2637,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-23"</rawValue>
+            <rawValue class="string">&quot;2021-06-23&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2682,7 +2681,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-15"</rawValue>
+            <rawValue class="string">&quot;2021-09-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2715,7 +2714,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2726,7 +2725,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-10-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-10-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -2961,7 +2960,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-26"</rawValue>
+            <rawValue class="string">&quot;2020-12-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3005,7 +3004,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-15"</rawValue>
+            <rawValue class="string">&quot;2021-09-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3038,7 +3037,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3049,7 +3048,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-04-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-04-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3284,7 +3283,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-26"</rawValue>
+            <rawValue class="string">&quot;2020-12-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3328,7 +3327,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-15"</rawValue>
+            <rawValue class="string">&quot;2021-09-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3361,7 +3360,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3372,7 +3371,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3607,7 +3606,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-10"</rawValue>
+            <rawValue class="string">&quot;2021-06-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3651,7 +3650,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-03"</rawValue>
+            <rawValue class="string">&quot;2021-09-03&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3684,7 +3683,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3695,7 +3694,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-10-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-10-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3930,7 +3929,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2019-08-06"</rawValue>
+            <rawValue class="string">&quot;2019-08-06&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3941,7 +3940,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-06"</rawValue>
+            <rawValue class="string">&quot;2021-08-06&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -3974,7 +3973,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-29"</rawValue>
+            <rawValue class="string">&quot;2021-08-29&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4007,7 +4006,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Imported"</rawValue>
+            <rawValue class="string">&quot;Imported&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4018,7 +4017,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-08-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-08-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4253,7 +4252,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2019-08-06"</rawValue>
+            <rawValue class="string">&quot;2019-08-06&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4264,7 +4263,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-06"</rawValue>
+            <rawValue class="string">&quot;2021-08-06&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4297,7 +4296,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-29"</rawValue>
+            <rawValue class="string">&quot;2021-08-29&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4330,7 +4329,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Imported"</rawValue>
+            <rawValue class="string">&quot;Imported&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4341,7 +4340,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-08-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-08-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4576,7 +4575,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-31"</rawValue>
+            <rawValue class="string">&quot;2021-05-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4620,7 +4619,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-31"</rawValue>
+            <rawValue class="string">&quot;2021-08-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4653,7 +4652,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4664,7 +4663,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-09-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-09-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4899,7 +4898,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-31"</rawValue>
+            <rawValue class="string">&quot;2021-05-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4943,7 +4942,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-31"</rawValue>
+            <rawValue class="string">&quot;2021-08-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4976,7 +4975,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -4987,7 +4986,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-09-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-09-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5222,7 +5221,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-15"</rawValue>
+            <rawValue class="string">&quot;2021-05-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5266,7 +5265,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-20"</rawValue>
+            <rawValue class="string">&quot;2021-09-20&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5299,7 +5298,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5310,7 +5309,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-09-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-09-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5545,7 +5544,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-18"</rawValue>
+            <rawValue class="string">&quot;2021-04-18&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5589,7 +5588,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-27"</rawValue>
+            <rawValue class="string">&quot;2021-09-27&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5622,7 +5621,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5633,7 +5632,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-08-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-08-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5868,7 +5867,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-26"</rawValue>
+            <rawValue class="string">&quot;2021-05-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5912,7 +5911,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-15"</rawValue>
+            <rawValue class="string">&quot;2021-09-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5945,7 +5944,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -5956,7 +5955,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-09-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-09-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6125,7 +6124,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-07-01"</rawValue>
+            <rawValue class="string">&quot;2020-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6191,7 +6190,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2018-07-01"</rawValue>
+            <rawValue class="string">&quot;2018-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6235,7 +6234,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-07-01"</rawValue>
+            <rawValue class="string">&quot;2020-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6268,7 +6267,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6279,7 +6278,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2020-07-01")</rawValue>
+            <rawValue class="string">date(&quot;2020-07-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6514,7 +6513,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2018-07-01"</rawValue>
+            <rawValue class="string">&quot;2018-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6525,7 +6524,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-09-01"</rawValue>
+            <rawValue class="string">&quot;2020-09-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6558,7 +6557,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-09-30"</rawValue>
+            <rawValue class="string">&quot;2020-09-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6591,7 +6590,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Imported"</rawValue>
+            <rawValue class="string">&quot;Imported&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6602,7 +6601,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2020-09-01" )</rawValue>
+            <rawValue class="string">date( &quot;2020-09-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6837,7 +6836,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2018-07-01"</rawValue>
+            <rawValue class="string">&quot;2018-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6848,7 +6847,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-09-01"</rawValue>
+            <rawValue class="string">&quot;2020-09-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6881,7 +6880,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-30"</rawValue>
+            <rawValue class="string">&quot;2021-09-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6914,7 +6913,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Imported"</rawValue>
+            <rawValue class="string">&quot;Imported&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -6925,7 +6924,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2020-09-01" )</rawValue>
+            <rawValue class="string">date( &quot;2020-09-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7160,7 +7159,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2018-07-01"</rawValue>
+            <rawValue class="string">&quot;2018-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7171,7 +7170,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-09-01"</rawValue>
+            <rawValue class="string">&quot;2020-09-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7204,7 +7203,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-30"</rawValue>
+            <rawValue class="string">&quot;2021-09-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7237,7 +7236,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7248,7 +7247,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7483,7 +7482,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-03-01"</rawValue>
+            <rawValue class="string">&quot;2021-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7527,7 +7526,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-15"</rawValue>
+            <rawValue class="string">&quot;2021-06-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7560,7 +7559,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7571,7 +7570,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7806,7 +7805,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-03-01"</rawValue>
+            <rawValue class="string">&quot;2021-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7850,7 +7849,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-15"</rawValue>
+            <rawValue class="string">&quot;2021-07-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7883,7 +7882,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -7894,7 +7893,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8129,7 +8128,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-03-01"</rawValue>
+            <rawValue class="string">&quot;2021-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8173,7 +8172,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-15"</rawValue>
+            <rawValue class="string">&quot;2021-08-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8206,7 +8205,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8217,7 +8216,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8452,7 +8451,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-03-01"</rawValue>
+            <rawValue class="string">&quot;2021-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8496,7 +8495,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-15"</rawValue>
+            <rawValue class="string">&quot;2021-09-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8529,7 +8528,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8540,7 +8539,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8775,7 +8774,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-03-01"</rawValue>
+            <rawValue class="string">&quot;2021-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8819,7 +8818,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-29"</rawValue>
+            <rawValue class="string">&quot;2021-05-29&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8852,7 +8851,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -8863,7 +8862,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9098,7 +9097,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-01"</rawValue>
+            <rawValue class="string">&quot;2021-05-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9142,7 +9141,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-31"</rawValue>
+            <rawValue class="string">&quot;2021-07-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9175,7 +9174,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9186,7 +9185,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-09-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-09-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9344,7 +9343,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 18 - Adult working dog "adopted"- registered &gt; 1 Aug</rawValue>
+            <rawValue class="string">Test 18 - Adult working dog &quot;adopted&quot;- registered &gt; 1 Aug</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9421,7 +9420,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9465,7 +9464,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-31"</rawValue>
+            <rawValue class="string">&quot;2021-08-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9498,7 +9497,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9509,7 +9508,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9667,7 +9666,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 19 - Adult working dog "adopted"- registered &lt; 1 Aug - May</rawValue>
+            <rawValue class="string">Test 19 - Adult working dog &quot;adopted&quot;- registered &lt; 1 Aug - May</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9744,7 +9743,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9788,7 +9787,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-31"</rawValue>
+            <rawValue class="string">&quot;2021-05-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9821,7 +9820,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9832,7 +9831,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -9990,7 +9989,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 20 - Adult working dog "adopted"- registered &lt; 1 Aug - June Registration</rawValue>
+            <rawValue class="string">Test 20 - Adult working dog &quot;adopted&quot;- registered &lt; 1 Aug - June Registration</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10067,7 +10066,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10111,7 +10110,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-30"</rawValue>
+            <rawValue class="string">&quot;2021-06-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10144,7 +10143,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10155,7 +10154,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10313,7 +10312,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 21 - Adult working dog "adopted"- Registered &lt;1 Aug - July Registration</rawValue>
+            <rawValue class="string">Test 21 - Adult working dog &quot;adopted&quot;- Registered &lt;1 Aug - July Registration</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10390,7 +10389,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10434,7 +10433,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-31"</rawValue>
+            <rawValue class="string">&quot;2021-07-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10467,7 +10466,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10478,7 +10477,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10636,7 +10635,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 22 - Adult working dog "Added RDO and Desex</rawValue>
+            <rawValue class="string">Test 22 - Adult working dog &quot;Added RDO and Desex</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10713,7 +10712,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-01"</rawValue>
+            <rawValue class="string">&quot;2021-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10757,7 +10756,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-31"</rawValue>
+            <rawValue class="string">&quot;2021-05-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10790,7 +10789,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10801,7 +10800,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -10959,7 +10958,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 23- Adult working dog "adopted"- registered &gt;1 Aug  </rawValue>
+            <rawValue class="string">Test 23- Adult working dog &quot;adopted&quot;- registered &gt;1 Aug  </rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11036,7 +11035,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2013-02-01"</rawValue>
+            <rawValue class="string">&quot;2013-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11069,7 +11068,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11080,7 +11079,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-30"</rawValue>
+            <rawValue class="string">&quot;2021-09-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11113,7 +11112,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11124,7 +11123,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11282,7 +11281,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 24 - Adult working dog "adopted"- registered &lt; 1 Aug - May</rawValue>
+            <rawValue class="string">Test 24 - Adult working dog &quot;adopted&quot;- registered &lt; 1 Aug - May</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11359,7 +11358,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11392,7 +11391,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11403,7 +11402,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-31"</rawValue>
+            <rawValue class="string">&quot;2021-05-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11436,7 +11435,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11447,7 +11446,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11605,7 +11604,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 24 - Adult working dog "adopted"- registered &lt; 1 Aug - June</rawValue>
+            <rawValue class="string">Test 24 - Adult working dog &quot;adopted&quot;- registered &lt; 1 Aug - June</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11682,7 +11681,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11715,7 +11714,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11726,7 +11725,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-30"</rawValue>
+            <rawValue class="string">&quot;2021-06-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11759,7 +11758,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11770,7 +11769,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -11928,7 +11927,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 24 - Adult working dog "adopted"- registered &lt; 1 Aug - July</rawValue>
+            <rawValue class="string">Test 24 - Adult working dog &quot;adopted&quot;- registered &lt; 1 Aug - July</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12005,7 +12004,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12038,7 +12037,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12049,7 +12048,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-31"</rawValue>
+            <rawValue class="string">&quot;2021-07-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12082,7 +12081,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12093,7 +12092,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12251,7 +12250,7 @@
               <name>Description</name>
               <type>OTHER</type>
             </expressionIdentifier>
-            <rawValue class="string">Test 24 - Adult dog "adopted"- registered &lt; 1 Aug - July</rawValue>
+            <rawValue class="string">Test 24 - Adult dog &quot;adopted&quot;- registered &lt; 1 Aug - July</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12328,7 +12327,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12361,7 +12360,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12372,7 +12371,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-31"</rawValue>
+            <rawValue class="string">&quot;2021-07-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12405,7 +12404,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12416,7 +12415,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12651,7 +12650,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-01"</rawValue>
+            <rawValue class="string">&quot;2021-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12695,7 +12694,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-05-02"</rawValue>
+            <rawValue class="string">&quot;2021-05-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12728,7 +12727,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"DisabilityAssist"</rawValue>
+            <rawValue class="string">&quot;DisabilityAssist&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12739,7 +12738,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -12974,7 +12973,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-01"</rawValue>
+            <rawValue class="string">&quot;2021-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13018,7 +13017,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-06-02"</rawValue>
+            <rawValue class="string">&quot;2021-06-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13051,7 +13050,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"DisabilityAssist"</rawValue>
+            <rawValue class="string">&quot;DisabilityAssist&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13062,7 +13061,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13297,7 +13296,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-01"</rawValue>
+            <rawValue class="string">&quot;2021-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13341,7 +13340,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-02"</rawValue>
+            <rawValue class="string">&quot;2021-07-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13374,7 +13373,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"DisabilityAssist"</rawValue>
+            <rawValue class="string">&quot;DisabilityAssist&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13385,7 +13384,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13620,7 +13619,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-01"</rawValue>
+            <rawValue class="string">&quot;2021-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13664,7 +13663,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-02"</rawValue>
+            <rawValue class="string">&quot;2021-09-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13697,7 +13696,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"DisabilityAssist"</rawValue>
+            <rawValue class="string">&quot;DisabilityAssist&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13708,7 +13707,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13943,7 +13942,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -13987,7 +13986,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-31"</rawValue>
+            <rawValue class="string">&quot;2021-07-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14020,7 +14019,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14031,7 +14030,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14266,7 +14265,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14310,7 +14309,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-31"</rawValue>
+            <rawValue class="string">&quot;2021-08-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14343,7 +14342,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14354,7 +14353,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14589,7 +14588,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14633,7 +14632,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-31"</rawValue>
+            <rawValue class="string">&quot;2021-07-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14666,7 +14665,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14677,7 +14676,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14912,7 +14911,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2011-02-01"</rawValue>
+            <rawValue class="string">&quot;2011-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14956,7 +14955,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-31"</rawValue>
+            <rawValue class="string">&quot;2021-08-31&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -14989,7 +14988,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15000,7 +14999,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15235,7 +15234,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-19"</rawValue>
+            <rawValue class="string">&quot;2020-12-19&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15279,7 +15278,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15312,7 +15311,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15323,7 +15322,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-04-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-04-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15558,7 +15557,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-19"</rawValue>
+            <rawValue class="string">&quot;2020-12-19&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15591,7 +15590,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15602,7 +15601,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15635,7 +15634,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Possessed"</rawValue>
+            <rawValue class="string">&quot;Possessed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15646,7 +15645,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-04-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-04-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15881,7 +15880,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-19"</rawValue>
+            <rawValue class="string">&quot;2020-12-19&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15914,7 +15913,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-02-28"</rawValue>
+            <rawValue class="string">&quot;2021-02-28&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15925,7 +15924,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15958,7 +15957,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Possessed"</rawValue>
+            <rawValue class="string">&quot;Possessed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -15969,7 +15968,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-02-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-02-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16204,7 +16203,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-10-19"</rawValue>
+            <rawValue class="string">&quot;2020-10-19&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16237,7 +16236,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16248,7 +16247,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16281,7 +16280,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Possessed"</rawValue>
+            <rawValue class="string">&quot;Possessed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16292,7 +16291,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-04-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-04-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16527,7 +16526,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-10-19"</rawValue>
+            <rawValue class="string">&quot;2020-10-19&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16560,7 +16559,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16571,7 +16570,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16604,7 +16603,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16615,7 +16614,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16850,7 +16849,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-12-19"</rawValue>
+            <rawValue class="string">&quot;2020-12-19&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16894,7 +16893,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-30"</rawValue>
+            <rawValue class="string">&quot;2021-04-30&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16927,7 +16926,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -16938,7 +16937,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17107,7 +17106,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">""</rawValue>
+            <rawValue class="string">&quot;&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17173,7 +17172,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2019-01-01"</rawValue>
+            <rawValue class="string">&quot;2019-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17184,7 +17183,7 @@
               <name>1|8</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-10"</rawValue>
+            <rawValue class="string">&quot;2022-02-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17206,7 +17205,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2019-01-02"</rawValue>
+            <rawValue class="string">&quot;2019-01-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17217,7 +17216,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-03"</rawValue>
+            <rawValue class="string">&quot;2022-03-03&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17250,7 +17249,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Imported"</rawValue>
+            <rawValue class="string">&quot;Imported&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17261,7 +17260,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-02-01" )</rawValue>
+            <rawValue class="string">date( &quot;2022-02-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17496,7 +17495,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-11-15"</rawValue>
+            <rawValue class="string">&quot;2020-11-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17540,7 +17539,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-26"</rawValue>
+            <rawValue class="string">&quot;2021-09-26&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17573,7 +17572,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17584,7 +17583,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17819,7 +17818,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17852,7 +17851,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17863,7 +17862,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17896,7 +17895,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -17907,7 +17906,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-12-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-12-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18142,7 +18141,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18175,7 +18174,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18186,7 +18185,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18219,7 +18218,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18230,7 +18229,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-12-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-12-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18465,7 +18464,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-12-02"</rawValue>
+            <rawValue class="string">&quot;2021-12-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18509,7 +18508,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18542,7 +18541,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18553,7 +18552,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-04-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-04-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18788,7 +18787,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-12-02"</rawValue>
+            <rawValue class="string">&quot;2021-12-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18832,7 +18831,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18865,7 +18864,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -18876,7 +18875,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-04-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-04-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19111,7 +19110,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-01-03"</rawValue>
+            <rawValue class="string">&quot;2022-01-03&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19155,7 +19154,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19188,7 +19187,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19199,7 +19198,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-05-01" )</rawValue>
+            <rawValue class="string">date( &quot;2022-05-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19434,7 +19433,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-01-03"</rawValue>
+            <rawValue class="string">&quot;2022-01-03&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19478,7 +19477,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19511,7 +19510,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19522,7 +19521,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-05-01" )</rawValue>
+            <rawValue class="string">date( &quot;2022-05-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19757,7 +19756,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-02"</rawValue>
+            <rawValue class="string">&quot;2022-02-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19801,7 +19800,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19834,7 +19833,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -19845,7 +19844,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-06-01" )</rawValue>
+            <rawValue class="string">date( &quot;2022-06-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20080,7 +20079,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-02"</rawValue>
+            <rawValue class="string">&quot;2022-02-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20124,7 +20123,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20157,7 +20156,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20168,7 +20167,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-06-01" )</rawValue>
+            <rawValue class="string">date( &quot;2022-06-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20337,7 +20336,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-11-25"</rawValue>
+            <rawValue class="string">&quot;2021-11-25&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20403,7 +20402,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20436,7 +20435,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-11-25"</rawValue>
+            <rawValue class="string">&quot;2021-11-25&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20447,7 +20446,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20480,7 +20479,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20491,7 +20490,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-11-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-11-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20660,7 +20659,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-12-15"</rawValue>
+            <rawValue class="string">&quot;2021-12-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20726,7 +20725,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20759,7 +20758,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-12-15"</rawValue>
+            <rawValue class="string">&quot;2021-12-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20770,7 +20769,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20803,7 +20802,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20814,7 +20813,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-12-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-12-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -20983,7 +20982,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-02"</rawValue>
+            <rawValue class="string">&quot;2022-02-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21049,7 +21048,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-02"</rawValue>
+            <rawValue class="string">&quot;2021-09-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21082,7 +21081,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-02"</rawValue>
+            <rawValue class="string">&quot;2022-02-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21093,7 +21092,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21126,7 +21125,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21137,7 +21136,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-02-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-02-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21306,7 +21305,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-01"</rawValue>
+            <rawValue class="string">&quot;2022-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21372,7 +21371,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2019-10-03"</rawValue>
+            <rawValue class="string">&quot;2019-10-03&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21405,7 +21404,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-01"</rawValue>
+            <rawValue class="string">&quot;2022-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21416,7 +21415,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21449,7 +21448,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21460,7 +21459,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-02-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-02-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21629,7 +21628,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-05"</rawValue>
+            <rawValue class="string">&quot;2022-03-05&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21695,7 +21694,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-11-04"</rawValue>
+            <rawValue class="string">&quot;2021-11-04&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21728,7 +21727,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-05"</rawValue>
+            <rawValue class="string">&quot;2022-03-05&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21739,7 +21738,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21772,7 +21771,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21783,7 +21782,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-03-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-03-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -21952,7 +21951,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-01"</rawValue>
+            <rawValue class="string">&quot;2022-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22018,7 +22017,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-11-04"</rawValue>
+            <rawValue class="string">&quot;2021-11-04&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22051,7 +22050,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-01"</rawValue>
+            <rawValue class="string">&quot;2022-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22062,7 +22061,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22095,7 +22094,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22106,7 +22105,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-03-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-03-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22275,7 +22274,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-28"</rawValue>
+            <rawValue class="string">&quot;2022-02-28&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22341,7 +22340,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-12-02"</rawValue>
+            <rawValue class="string">&quot;2021-12-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22385,7 +22384,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22418,7 +22417,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22429,7 +22428,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-04-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-04-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22598,7 +22597,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-28"</rawValue>
+            <rawValue class="string">&quot;2022-02-28&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22664,7 +22663,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-12-02"</rawValue>
+            <rawValue class="string">&quot;2021-12-02&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22708,7 +22707,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22741,7 +22740,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22752,7 +22751,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-04-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-04-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22921,7 +22920,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-01"</rawValue>
+            <rawValue class="string">&quot;2022-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -22987,7 +22986,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-01-01"</rawValue>
+            <rawValue class="string">&quot;2021-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23020,7 +23019,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-01"</rawValue>
+            <rawValue class="string">&quot;2022-03-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23031,7 +23030,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23064,7 +23063,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23075,7 +23074,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-03-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-03-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23244,7 +23243,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-12"</rawValue>
+            <rawValue class="string">&quot;2021-07-12&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23310,7 +23309,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-01-01"</rawValue>
+            <rawValue class="string">&quot;2021-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23343,7 +23342,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-12"</rawValue>
+            <rawValue class="string">&quot;2021-07-12&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23354,7 +23353,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23387,7 +23386,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23398,7 +23397,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-07-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-07-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23633,7 +23632,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23666,7 +23665,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23677,7 +23676,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23710,7 +23709,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23721,7 +23720,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-11-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-11-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23890,7 +23889,7 @@
               <name>1|1</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-01-01"</rawValue>
+            <rawValue class="string">&quot;2022-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23956,7 +23955,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -23989,7 +23988,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-01-01"</rawValue>
+            <rawValue class="string">&quot;2022-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24000,7 +23999,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24033,7 +24032,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Adopted"</rawValue>
+            <rawValue class="string">&quot;Adopted&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24044,7 +24043,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-01-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-01-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24279,7 +24278,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24312,7 +24311,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-10-10"</rawValue>
+            <rawValue class="string">&quot;2021-10-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24323,7 +24322,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24356,7 +24355,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Possessed"</rawValue>
+            <rawValue class="string">&quot;Possessed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24367,7 +24366,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-10-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-10-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24602,7 +24601,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24635,7 +24634,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24646,7 +24645,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24679,7 +24678,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24690,7 +24689,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-11-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-11-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24925,7 +24924,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24958,7 +24957,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-01"</rawValue>
+            <rawValue class="string">&quot;2021-09-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -24969,7 +24968,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25002,7 +25001,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Possessed"</rawValue>
+            <rawValue class="string">&quot;Possessed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25013,7 +25012,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-09-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-09-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25248,7 +25247,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25281,7 +25280,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-01"</rawValue>
+            <rawValue class="string">&quot;2022-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25292,7 +25291,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25325,7 +25324,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Possessed"</rawValue>
+            <rawValue class="string">&quot;Possessed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25336,7 +25335,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-02-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-02-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25571,7 +25570,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25604,7 +25603,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-01-01"</rawValue>
+            <rawValue class="string">&quot;2022-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25615,7 +25614,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25648,7 +25647,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Possessed"</rawValue>
+            <rawValue class="string">&quot;Possessed&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25659,7 +25658,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-01-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-01-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25894,7 +25893,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-01-01"</rawValue>
+            <rawValue class="string">&quot;2020-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25927,7 +25926,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-01-01"</rawValue>
+            <rawValue class="string">&quot;2020-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25938,7 +25937,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-10"</rawValue>
+            <rawValue class="string">&quot;2022-03-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25971,7 +25970,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -25982,7 +25981,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26217,7 +26216,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-11-01"</rawValue>
+            <rawValue class="string">&quot;2020-11-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26250,7 +26249,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-11-15"</rawValue>
+            <rawValue class="string">&quot;2021-11-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26261,7 +26260,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-10"</rawValue>
+            <rawValue class="string">&quot;2022-03-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26294,7 +26293,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26305,7 +26304,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-06-30" )</rawValue>
+            <rawValue class="string">date( &quot;2022-06-30&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26540,7 +26539,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-01-01"</rawValue>
+            <rawValue class="string">&quot;2020-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26573,7 +26572,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-01"</rawValue>
+            <rawValue class="string">&quot;2022-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26584,7 +26583,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-10"</rawValue>
+            <rawValue class="string">&quot;2022-03-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26617,7 +26616,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26628,7 +26627,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-06-30" )</rawValue>
+            <rawValue class="string">date( &quot;2022-06-30&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26863,7 +26862,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-01-01"</rawValue>
+            <rawValue class="string">&quot;2020-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26896,7 +26895,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-01-01"</rawValue>
+            <rawValue class="string">&quot;2020-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26907,7 +26906,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-10"</rawValue>
+            <rawValue class="string">&quot;2022-03-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26940,7 +26939,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -26951,7 +26950,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27186,7 +27185,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-01-01"</rawValue>
+            <rawValue class="string">&quot;2020-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27219,7 +27218,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-04-01"</rawValue>
+            <rawValue class="string">&quot;2021-04-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27230,7 +27229,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-10"</rawValue>
+            <rawValue class="string">&quot;2022-03-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27263,7 +27262,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27274,7 +27273,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2021-07-01" )</rawValue>
+            <rawValue class="string">date( &quot;2021-07-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27509,7 +27508,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-11-01"</rawValue>
+            <rawValue class="string">&quot;2020-11-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27542,7 +27541,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-11-15"</rawValue>
+            <rawValue class="string">&quot;2021-11-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27553,7 +27552,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-10"</rawValue>
+            <rawValue class="string">&quot;2022-03-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27586,7 +27585,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27597,7 +27596,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-06-30" )</rawValue>
+            <rawValue class="string">date( &quot;2022-06-30&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27832,7 +27831,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2020-01-01"</rawValue>
+            <rawValue class="string">&quot;2020-01-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27865,7 +27864,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-01"</rawValue>
+            <rawValue class="string">&quot;2022-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27876,7 +27875,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-10"</rawValue>
+            <rawValue class="string">&quot;2022-03-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27909,7 +27908,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Dangerous"</rawValue>
+            <rawValue class="string">&quot;Dangerous&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -27920,7 +27919,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-06-30" )</rawValue>
+            <rawValue class="string">date( &quot;2022-06-30&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28155,7 +28154,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28199,7 +28198,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28232,7 +28231,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28243,7 +28242,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-11-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-11-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28478,7 +28477,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-07-01"</rawValue>
+            <rawValue class="string">&quot;2021-07-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28511,7 +28510,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-12-15"</rawValue>
+            <rawValue class="string">&quot;2021-12-15&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28522,7 +28521,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28555,7 +28554,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28566,7 +28565,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-12-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-12-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28801,7 +28800,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-01"</rawValue>
+            <rawValue class="string">&quot;2021-09-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28834,7 +28833,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-08-01"</rawValue>
+            <rawValue class="string">&quot;2021-08-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28845,7 +28844,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28878,7 +28877,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -28889,7 +28888,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-08-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-08-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29124,7 +29123,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-09-01"</rawValue>
+            <rawValue class="string">&quot;2021-09-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29157,7 +29156,7 @@
               <name>1|10</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2021-10-10"</rawValue>
+            <rawValue class="string">&quot;2021-10-10&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29168,7 +29167,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-03-09"</rawValue>
+            <rawValue class="string">&quot;2022-03-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29201,7 +29200,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Working"</rawValue>
+            <rawValue class="string">&quot;Working&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29212,7 +29211,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2021-10-01")</rawValue>
+            <rawValue class="string">date(&quot;2021-10-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29447,7 +29446,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-04-01"</rawValue>
+            <rawValue class="string">&quot;2022-04-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29491,7 +29490,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-05-09"</rawValue>
+            <rawValue class="string">&quot;2022-05-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29524,7 +29523,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29535,7 +29534,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-07-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-07-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29770,7 +29769,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-01"</rawValue>
+            <rawValue class="string">&quot;2022-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29814,7 +29813,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-05-09"</rawValue>
+            <rawValue class="string">&quot;2022-05-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29847,7 +29846,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -29858,7 +29857,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-07-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-07-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30093,7 +30092,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-04-01"</rawValue>
+            <rawValue class="string">&quot;2022-04-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30137,7 +30136,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-05-09"</rawValue>
+            <rawValue class="string">&quot;2022-05-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30170,7 +30169,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30181,7 +30180,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date( "2022-08-01" )</rawValue>
+            <rawValue class="string">date( &quot;2022-08-01&quot; )</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30321,287 +30320,6 @@
         <factMappingValues>
           <FactMappingValue>
             <factIdentifier>
-              <name>Scenario description</name>
-              <className>java.lang.String</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>Description</name>
-              <type>OTHER</type>
-            </expressionIdentifier>
-            <rawValue class="string">New Test, just to prove updates</rawValue>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>AdoptionDate</name>
-              <className>AdoptionDate</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|1</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>ApplicableYear</name>
-              <className>ApplicableYear</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|2</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>CurrentRegoOtherCouncil</name>
-              <className>CurrentRegoOtherCouncil</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|3</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>Dangerous</name>
-              <className>Dangerous</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|4</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>Desexed</name>
-              <className>Desexed</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|5</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>DisabilityAssist</name>
-              <className>DisabilityAssist</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|6</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>DogDOB</name>
-              <className>DogDOB</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|7</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>ImportedDate</name>
-              <className>ImportedDate</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|8</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>OwnerRDO</name>
-              <className>OwnerRDO</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|9</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>PossessionDate</name>
-              <className>PossessionDate</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|10</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>RegistrationDate</name>
-              <className>RegistrationDate</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|11</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>TransferIn</name>
-              <className>TransferIn</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|12</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>Working</name>
-              <className>Working</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|13</name>
-              <type>GIVEN</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>FeeType</name>
-              <className>FeeType</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1652731250547</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>ActualRegistrationDate</name>
-              <className>ActualRegistrationDate</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|14</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>AdoptedFee</name>
-              <className>AdoptedFee</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|15</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>AdoptedThisYear</name>
-              <className>AdoptedThisYear</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|16</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>ImportedFee</name>
-              <className>ImportedFee</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|18</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>ImportedThisYear</name>
-              <className>ImportedThisYear</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|19</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>InitialRegistration</name>
-              <className>InitialRegistration</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|21</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>LateRegistration</name>
-              <className>LateRegistration</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|22</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>LicenseFee</name>
-              <className>LicenseFee</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|23</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>PossessedFee</name>
-              <className>PossessedFee</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|24</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>PossessedThisYear</name>
-              <className>PossessedThisYear</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|25</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>InitialFee</name>
-              <className>InitialFee</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1652731309007</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>StandardFee</name>
-              <className>StandardFee</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|26</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>WorkingFee</name>
-              <className>WorkingFee</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>1|27</name>
-              <type>EXPECT</type>
-            </expressionIdentifier>
-          </FactMappingValue>
-          <FactMappingValue>
-            <factIdentifier>
               <name>#</name>
               <className>java.lang.Integer</className>
             </factIdentifier>
@@ -30610,21 +30328,6 @@
               <type>OTHER</type>
             </expressionIdentifier>
             <rawValue class="string">93</rawValue>
-          </FactMappingValue>
-        </factMappingValues>
-      </Scenario>
-      <Scenario>
-        <factMappingValues>
-          <FactMappingValue>
-            <factIdentifier>
-              <name>#</name>
-              <className>java.lang.Integer</className>
-            </factIdentifier>
-            <expressionIdentifier>
-              <name>Index</name>
-              <type>OTHER</type>
-            </expressionIdentifier>
-            <rawValue class="string">94</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30712,7 +30415,7 @@
               <name>1|7</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-02-01"</rawValue>
+            <rawValue class="string">&quot;2022-02-01&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30756,7 +30459,7 @@
               <name>1|11</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">"2022-05-09"</rawValue>
+            <rawValue class="string">&quot;2022-05-09&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30789,7 +30492,7 @@
               <name>1652731250547</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">"Standard"</rawValue>
+            <rawValue class="string">&quot;Standard&quot;</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30800,7 +30503,7 @@
               <name>1|14</name>
               <type>EXPECT</type>
             </expressionIdentifier>
-            <rawValue class="string">date("2022-07-01")</rawValue>
+            <rawValue class="string">date(&quot;2022-07-01&quot;)</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
@@ -30954,8 +30657,8 @@
           <className>java.lang.Void</className>
           <factAlias>INSTANCE 1</factAlias>
           <expressionAlias>PROPERTY 1</expressionAlias>
-          <columnWidth>114</columnWidth>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
+          <columnWidth>114.0</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
