@@ -10,7 +10,7 @@ It is found within the Rules engine as `Regulations > Dogs`
 
 To update this repository, clone it from the development rules engine like:
 
-`git clone https://admin@[host]:8080/business-central/git/Regulations/Dogs`
+`git clone https://admin@[host]/business-central/git/Regulations/Dogs`
 
 Where [host] is the domain of the development rules engine.
 
