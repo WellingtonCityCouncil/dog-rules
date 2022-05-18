@@ -10,7 +10,7 @@ It is found within the Rules engine as `Regulations > Dogs`
 
 To update this repository, clone it from the development rules engine like:
 
-`git clone https://[host]:8080/business-central/git/Regulations/Dogs`
+`git clone https://admin@[host]:8080/business-central/git/Regulations/Dogs`
 
 Where [host] is the domain of the development rules engine.
 
@@ -25,7 +25,7 @@ Then push those changes to github.
 
 `git push remote wccorigin`
 
-For a new repository on production, make the project public on github and then click import project in workbench and use the https public git repository link. You can then choose to make the github repository private again.
+For a new repository on production, make the project public on github and then click import project in workbench and use the https public git repository link. __Note: when doing this the interface is tricky - it's a two step process where you need to select the repository once it appears and click OK on the right__. You can then choose to make the github repository private again.
 
 For an already existing repository in production, add production as a remote and push updates to it as follows.
 
